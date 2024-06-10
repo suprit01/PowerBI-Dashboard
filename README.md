@@ -3,10 +3,10 @@
 The primary objective of this Power BI dashboard is to provide a comprehensive overview of patient visits and demographics, departmental referrals, and patient wait times in a healthcare setting. The dashboard aims to support decision-making by visualizing key metrics that impact patient care and operational efficiency.
 
 **Key Performance Indicators (KPIs)**:
-**Total Patients Visits**
+- **Total Patients Visits**
 
 This metric indicates the overall number of patient visits within a specified period.
-**Patients by Race and Age Group**
+- **Patients by Race and Age Group**
 
 These KPIs help in understanding the demographic distribution of patients.
 **Total Patients by Department Referral** <br>
