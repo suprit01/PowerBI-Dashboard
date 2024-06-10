@@ -4,7 +4,7 @@ The primary objective of this Power BI dashboard is to provide a comprehensive o
 
 **Key Performance Indicators (KPIs)**:
 
-**Total Patients Visits** : This metric indicates the overall number of patient visits within a specified period.
+**Total Patients Visits** : This metric indicates the overall number of patient visits within a specified period.\n
 **Patients by Race and Age Group** : These KPIs help in understanding the demographic distribution of patients.
 **Total Patients by Department Referral**: This measures the number of patients referred to various departments, highlighting which departments are most utilized.
 **Walk-In vs. Referred Patients**: This shows the proportion of patients who walked in without an appointment versus those who were referred.
