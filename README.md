@@ -4,7 +4,7 @@ The primary objective of this Power BI dashboard is to provide a comprehensive o
 
 **Key Performance Indicators (KPIs)**:
 
-**Total Patients Visits** 
+**Total Patients Visits** <br>
 This metric indicates the overall number of patient visits within a specified period.
 **Patients by Race and Age Group** 
 These KPIs help in understanding the demographic distribution of patients.
