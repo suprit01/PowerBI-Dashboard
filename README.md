@@ -4,22 +4,20 @@ The primary objective of this Power BI dashboard is to provide a comprehensive o
 
 **Key Performance Indicators (KPIs)**:
 - **Total Patients Visits**
-
 This metric indicates the overall number of patient visits within a specified period.
 - **Patients by Race and Age Group**
-
 These KPIs help in understanding the demographic distribution of patients.
-**Total Patients by Department Referral** <br>
+ - **Total Patients by Department Referral** <br>
 This measures the number of patients referred to various departments, highlighting which departments are most utilized.
-**Walk-In vs. Referred Patients** <br>
+- **Walk-In vs. Referred Patients** <br>
 This shows the proportion of patients who walked in without an appointment versus those who were referred.
-**Average Wait Time** <br>
+- **Average Wait Time** <br>
 This is a crucial KPI for assessing the efficiency of patient processing and service delivery.
-**Average Satisfaction** <br>
+- **Average Satisfaction** <br>
 This metric reflects patient satisfaction with the healthcare services received.
-**Patients by Week Type (Weekday vs. Weekend)** <br>
+- **Patients by Week Type (Weekday vs. Weekend)** <br>
 This helps in identifying patterns in patient visits across different days of the week.
-**Emergency Room Visits** <br>
+- **Emergency Room Visits** <br>
 This KPI tracks the number of visits to the emergency room.
 
 **Conclusion**:
